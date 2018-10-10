@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "528405465185",
+    "firebase_url": "https://tip-22-options.firebaseio.com",
+    "project_id": "tip-22-options",
+    "storage_bucket": "tip-22-options.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528405465185:android:6ae943f800260660",
+        "android_client_info": {
+          "package_name": "com.example.xfocusmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528405465185-7ls15f5cesqbm6o7iu2aqpj63o44ok5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUCXhRxcViYJjKcjcs_T1oTX_oX5-Vgt0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

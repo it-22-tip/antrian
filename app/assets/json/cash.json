@@ -1,0 +1,62 @@
+{
+  "data": [
+    {
+      "branch": 1,
+      "year": 2017,
+      "month": 1,
+      "day": 1,
+      "component": {
+        "cash": 1000.00,
+        "bank": [
+          {
+            "id": 1,
+            "value": 100.00
+          }
+        ]
+      }
+    },
+    {
+      "branch": 1,
+      "year": 2017,
+      "month": 2,
+      "day": 2,
+      "component": {
+        "cash": 1200.00,
+        "bank": [
+          {
+            "id": 1,
+            "value": 100.00
+          }
+        ]
+      }
+    },
+    {
+      "branch": 1,
+      "year": 2017,
+      "month": 3,
+      "day": 2,
+      "component": {
+        "cash": 1100.00,
+        "bank": [
+          {
+            "id": 1,
+            "value": 200.00
+          },
+          {
+            "id": 2,
+            "value": 100.00
+          }
+        ]
+      }
+    },
+    {
+      "branch": 1,
+      "year": 2017,
+      "month": 4,
+      "day": 1,
+      "component": {
+        "cash": -200.00
+      }
+    }
+  ]
+}

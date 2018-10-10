@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "year": 2017,
+      "month": 1,
+      "day": 1,
+      "component": {
+        "wip": 0.00,
+        "finished": 0.00,
+        "raw": 0.00,
+        "movement": {
+          "slow": [
+            {
+              "title": "Kacang Atom",
+              "ammount": 10000.00
+            },
+            {
+              "title": "Kit Kat",
+              "ammount": 10000.00
+            },
+            {
+              "title": "Coca Cola",
+              "ammount": 10000.00
+            }
+          ],
+          "fast": [
+            {
+              "title": "Kratingdaeng",
+              "ammount": 10000.00
+            },
+            {
+              "title": "Dua Kelinci",
+              "ammount": 10000.00
+            },
+            {
+              "title": "Mineral Water",
+              "ammount": 10000.00
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

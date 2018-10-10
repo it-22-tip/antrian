@@ -1,0 +1,292 @@
+{
+  "data": [
+    {
+      "year": 2017,
+      "month": 1,
+      "day": 1,
+      "components": {
+        "sales": 43000000.00,
+        "discount": 0.00,
+        "tax": 0.00,
+        "service": 0.00,
+        "return": 0.00
+      }
+    },
+    {
+      "year": 2017,
+      "month": 2,
+      "day": 1,
+      "components": {
+        "sales": 45000000.00,
+        "discount": 0.00,
+        "tax": 0.00,
+        "service": 0.00,
+        "return": 0.00
+      }
+    },
+    {
+      "year": 2017,
+      "month": 3,
+      "day": 1,
+      "components": {
+        "sales": 55000000.00,
+        "discount": 0.00,
+        "tax": 0.00,
+        "service": 0.00,
+        "return": 0.00
+      }
+    },
+    {
+      "year": 2017,
+      "month": 4,
+      "day": 1,
+      "components": {
+        "sales": 50000000.00,
+        "discount": 0.00,
+        "tax": 0.00,
+        "service": 0.00,
+        "return": 0.00
+      }
+    },
+    {
+      "year": 2017,
+      "month": 5,
+      "day": 1,
+      "components": {
+        "sales": 52000000.00,
+        "discount": 0.00,
+        "tax": 0.00,
+        "service": 0.00,
+        "return": 0.00
+      }
+    },
+    {
+      "year": 2017,
+      "month": 6,
+      "day": 1,
+      "components": {
+        "sales": 51000000.00,
+        "discount": 0.00,
+        "tax": 0.00,
+        "service": 0.00,
+        "return": 0.00
+      }
+    },
+    {
+      "year": 2017,
+      "month": 7,
+      "day": 1,
+      "components": {
+        "sales": 49500000.00,
+        "discount": 0.00,
+        "tax": 0.00,
+        "service": 0.00,
+        "return": 0.00
+      }
+    },
+    {
+      "year": 2017,
+      "month": 8,
+      "day": 1,
+      "components": {
+        "sales": 52500000.00,
+        "discount": 0.00,
+        "tax": 0.00,
+        "service": 0.00,
+        "return": 0.00
+      }
+    },
+    {
+      "year": 2017,
+      "month": 9,
+      "day": 1,
+      "components": {
+        "sales": 47500000.00,
+        "discount": 0.00,
+        "tax": 0.00,
+        "service": 0.00,
+        "return": 0.00
+      }
+    },
+    {
+      "year": 2017,
+      "month": 10,
+      "day": 1,
+      "components": {
+        "sales": 53000000.00,
+        "discount": 0.00,
+        "tax": 0.00,
+        "service": 0.00,
+        "return": 0.00
+      }
+    },
+    {
+      "year": 2017,
+      "month": 11,
+      "day": 1,
+      "components": {
+        "sales": 52000000.00,
+        "discount": 0.00,
+        "tax": 0.00,
+        "service": 0.00,
+        "return": 0.00
+      }
+    },
+    {
+      "year": 2017,
+      "month": 12,
+      "day": 1,
+      "components": {
+        "sales": 51500000.00,
+        "discount": 0.00,
+        "tax": 0.00,
+        "service": 0.00,
+        "return": 0.00
+      }
+    },
+    {
+      "year": 2018,
+      "month": 1,
+      "day": 1,
+      "components": {
+        "sales": 44000000.00,
+        "discount": 0.00,
+        "tax": 0.00,
+        "service": 0.00,
+        "return": 0.00
+      }
+    },
+    {
+      "year": 2018,
+      "month": 2,
+      "day": 1,
+      "components": {
+        "sales": 45500000.00,
+        "discount": 0.00,
+        "tax": 0.00,
+        "service": 0.00,
+        "return": 0.00
+      }
+    },
+    {
+      "year": 2018,
+      "month": 3,
+      "day": 1,
+      "components": {
+        "sales": 52500000.00,
+        "discount": 0.00,
+        "tax": 0.00,
+        "service": 0.00,
+        "return": 0.00
+      }
+    },
+    {
+      "year": 2018,
+      "month": 4,
+      "day": 1,
+      "components": {
+        "sales": 51500000.00,
+        "discount": 0.00,
+        "tax": 0.00,
+        "service": 0.00,
+        "return": 0.00
+      }
+    },
+    {
+      "year": 2018,
+      "month": 5,
+      "day": 1,
+      "components": {
+        "sales": 53500000.00,
+        "discount": 0.00,
+        "tax": 0.00,
+        "service": 0.00,
+        "return": 0.00
+      }
+    },
+    {
+      "year": 2018,
+      "month": 6,
+      "day": 1,
+      "components": {
+        "sales": 53750000.00,
+        "discount": 0.00,
+        "tax": 0.00,
+        "service": 0.00,
+        "return": 0.00
+      }
+    },
+    {
+      "year": 2018,
+      "month": 7,
+      "day": 1,
+      "components": {
+        "sales": 49000000.00,
+        "discount": 0.00,
+        "tax": 0.00,
+        "service": 0.00,
+        "return": 0.00
+      }
+    },
+    {
+      "year": 2018,
+      "month": 8,
+      "day": 1,
+      "components": {
+        "sales": 51500000.00,
+        "discount": 0.00,
+        "tax": 0.00,
+        "service": 0.00,
+        "return": 0.00
+      }
+    },
+    {
+      "year": 2018,
+      "month": 9,
+      "day": 1,
+      "components": {
+        "sales": 47000000.00,
+        "discount": 0.00,
+        "tax": 0.00,
+        "service": 0.00,
+        "return": 0.00
+      }
+    },
+    {
+      "year": 2018,
+      "month": 10,
+      "day": 1,
+      "components": {
+        "sales": 52500000.00,
+        "discount": 0.00,
+        "tax": 0.00,
+        "service": 0.00,
+        "return": 0.00
+      }
+    },
+    {
+      "year": 2018,
+      "month": 11,
+      "day": 1,
+      "components": {
+        "sales": 51000000.00,
+        "discount": 0.00,
+        "tax": 0.00,
+        "service": 0.00,
+        "return": 0.00
+      }
+    },
+    {
+      "year": 2018,
+      "month": 12,
+      "day": 1,
+      "components": {
+        "sales": 49500000.00,
+        "discount": 0.00,
+        "tax": 0.00,
+        "service": 0.00,
+        "return": 0.00
+      }
+    }
+  ]
+}

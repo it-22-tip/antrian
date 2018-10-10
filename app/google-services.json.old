@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "774165364993",
+    "firebase_url": "https://options-xfocus.firebaseio.com",
+    "project_id": "options-xfocus",
+    "storage_bucket": "options-xfocus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774165364993:android:6ae943f800260660",
+        "android_client_info": {
+          "package_name": "com.example.xfocusmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774165364993-e88ajh63k2mg6j25afbiqpqsa5j0g838.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBorAeomljUxxlI86pYCgBq7DkaxlvL-pU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
